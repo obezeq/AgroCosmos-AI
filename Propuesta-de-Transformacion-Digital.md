@@ -1,4 +1,4 @@
-### **Propuesta de Transformación Digital: AgroCosmos AI**  
+# **Propuesta de Transformación Digital: AgroCosmos AI**  
 
 La transformación digital de AgroCosmos AI implica una integración de extremo a extremo entre procesos agrícolas tradicionales y tecnologías avanzadas basadas en inteligencia artificial. Este documento detalla cómo la IA optimiza tanto la operación en planta como los procesos de negocio, ofreciendo un enfoque estratégico para liderar la revolución agrícola.  
 
