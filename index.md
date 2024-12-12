@@ -14,7 +14,7 @@ En esta web, presentamos nuestro **proyecto de transformación digital** que bus
    - Conoce nuestra empresa y visión para la **transformación digital** de la agricultura.
    - Explora nuestra misión de integrar **tecnologías avanzadas** en los procesos agrícolas.
 
-2. <a href="Investigación-y-Seleccion-de-Tecnologias-IA-y-Digitalizacion" target="_blank">**Investigación y Selección de Tecnologías IA y Digitalización**</a>
+2. <a href="Investigacion-y-Seleccion-de-Tecnologias-IA-y-Digitalizacion" target="_blank">**Investigación y Selección de Tecnologías IA y Digitalización**</a>
    - Un análisis profundo de las **tecnologías clave** para la digitalización de la agricultura.
    - Selección de **herramientas tecnológicas** que nos permitirán mejorar la eficiencia y productividad.
 
