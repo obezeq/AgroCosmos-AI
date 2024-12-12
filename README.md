@@ -10,23 +10,23 @@ En esta web, presentamos nuestro **proyecto de transformación digital** que bus
 
 ## 📑 **Índice de Secciones**
 
-1. [**Ficha de la Empresa - AgroCosmos AI**](ficha-de-empresa.md)
+1. [**Ficha de la Empresa - AgroCosmos AI**](Ficha-de-empresa)
    - Conoce nuestra empresa y visión para la **transformación digital** de la agricultura.
    - Explora nuestra misión de integrar **tecnologías avanzadas** en los procesos agrícolas.
 
-2. [**Investigación y Selección de Tecnologías IA y Digitalización**](Investigación-y-Seleccion-de-Tecnologias-IA-y-Digitalizacion.md)
+2. [**Investigación y Selección de Tecnologías IA y Digitalización**](Investigación-y-Seleccion-de-Tecnologias-IA-y-Digitalizacion)
    - Un análisis profundo de las **tecnologías clave** para la digitalización de la agricultura.
    - Selección de **herramientas tecnológicas** que nos permitirán mejorar la eficiencia y productividad.
 
-3. [**Propuesta de Transformación Digital**](Propuesta-de-Transformacion-Digital.md)
+3. [**Propuesta de Transformación Digital**](Propuesta-de-Transformacion-Digital)
    - Detalles de cómo **IA y automatización** se implementan en los procesos agrícolas.
    - La **transformación digital** de nuestros procesos de campo y negocio de extremo a extremo.
 
-4. [**Diseño Avanzado de Tecnología y Estrategia de Negocio**](Diseno-Avanzado-de-Tecnologia-y-Estrategia-de-Negocio.md)
+4. [**Diseño Avanzado de Tecnología y Estrategia de Negocio**](Diseno-Avanzado-de-Tecnologia-y-Estrategia-de-Negocio)
    - Estrategias para **optimizar** los recursos y procesos mediante la integración de **tecnologías avanzadas**.
    - Planificación de **transformación digital** tanto a nivel tecnológico como comercial.
 
-5. [**Desarrollo de Propuesta de Sostenibilidad, Impacto Social y Difusión**](Desarrollo-de-Propuesta-de-Sostenibilidad-Impacto-Social-y-Difusion.md)
+5. [**Desarrollo de Propuesta de Sostenibilidad, Impacto Social y Difusión**](Desarrollo-de-Propuesta-de-Sostenibilidad-Impacto-Social-y-Difusion)
    - Cómo nuestra propuesta impacta **positivamente** en el medio ambiente, la **sociedad**, y la **economía**.
    - **Sostenibilidad** y **difusión** de nuestras soluciones tecnológicas para transformar el sector agrícola global.
 
